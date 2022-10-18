@@ -16,7 +16,7 @@
 
 👋  Hi, i'm [Viet Ha](https://www.facebook.com/ha2cm/), a website developer from Vietnam. My passion for software lies in taking ideas and turning them into reality with a beautiful interface. I care about the experience, image and quality of the application that I have built.
 
-<img align="right" alt="GIF" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" width="500" height="365" />
+<img align="right" alt="GIF" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" width="500" height="360" />
   
 - 💼 Want to work with me?  [Email](mailto:mavietha.info@gmail.com)
 - 💬 Ask me about anything, i am happy to help

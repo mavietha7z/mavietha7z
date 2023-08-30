@@ -10,10 +10,10 @@
   <img align="left" alt="Ha's TikTok" width="24px" src="https://img.icons8.com/ios-filled/100/000000/tiktok--v1.png" />
 </a>
 <a href="https://twitter.com/ha2cm">
-  <img align="left" alt="Ha's Twitter" width="24px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
+  <img align="left" alt="Ha's Twitter" width="24px" src="https://i.imgur.com/WcwPoTq.png" />
 </a>
 <a href="https://www.linkedin.com/in/ha2cm/">
-  <img align="left" alt="Ha's LinkedIN" width="24px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+  <img align="left" alt="Ha's LinkedIN" width="24px" src="https://i.imgur.com/Ued5xqT.png" />
 </a>
   <img src="https://komarev.com/ghpvc/?username=ha2cm" alt="ha2cm" />
 <br />
